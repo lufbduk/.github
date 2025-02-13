@@ -1,3 +1,40 @@
+
 ## lufbduk
 
-@[ziio2110](https://github.com/ziio2110)
+### Accounts
+
+- @[ziio2110](https://github.com/ziio2110)
+- @[gitforziio](https://github.com/gitforziio)
+
+### Projects
+
+#### Ambitions
+
+- [语宙心星](https://github.com/ziionote) : 探索语言与心智的奥秘（博客）。
+- [Tridict](https://github.com/Tridict) : 三相字典（三相：人、机器、灵魂），提供以「面向人类和机器的自然语言知识资源服务」为代表的开源技术。
+- [ZIIO AI](https://github.com/ziioai) : Make rational AI products a reality.
+
+#### Doing
+
+- [NaturalParser](https://github.com/NaturalParser) : 句法语义解析器。
+- [PureKnow](https://github.com/pureknow) : 私人知识工程工具。
+- [NexWorld](https://github.com/nex-world) : AI Driven TRPG.
+- [ACGAI.fun](https://github.com/acgai-fun), [AIxGAME](https://github.com/AIxGAME) : Community for AI technology in games.
+
+#### Going to do
+
+- [ConclusionNet](https://github.com/ConclusionNet) : 人类知识共同体中的「结论网」。
+- [ConclusionBank](https://github.com/ConclusionBank) : 人类知识共同体中的「结论库」。
+- [lang-tutorial](https://github.com/lang-tutorial) : 各种人工语言或自然语言的教程。
+
+#### Some day
+
+- [Cozy Study](https://github.com/cozystudy) : 与学术研究有关的工具或平台。
+- [TensorOff](https://github.com/TensorOff) : 能够取缔 tensor 的技术。
+
+#### Interests & Hobbies
+
+- [ZiioJoy](https://github.com/ZiioJoy) : 个人兴趣爱好相关内容分享场所。
+- [ZiioForks](https://github.com/ziioforks) : Forked repos.
+- [Blue Smile](https://github.com/blue-smile) : 一个个人符号。
+
