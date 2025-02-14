@@ -53,8 +53,10 @@
 
 - [shadcn](https://ui.shadcn.com/)
 - [Radix UI](https://radix-ui.com/)
-- [Ant Design X](https://ant-design-x.antgroup.com)
 
+- [Plate: Build your rich-text editor](https://platejs.org/)
+
+- [Ant Design X](https://ant-design-x.antgroup.com)
 - [LangUI](https://www.langui.dev/)
 
 ##### Motion | Anime
@@ -109,4 +111,15 @@
 
 - [Vite Library Mode](https://cn.vite.dev/guide/build.html#library-mode)
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+
+
+
+
+
+
+
+<!-- https://sealos.run/ -->
+
+
+
 
