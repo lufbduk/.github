@@ -39,3 +39,56 @@
 - [ZiioForks](https://github.com/ziioforks) : Forked repos.
 - [Blue Smile](https://github.com/blue-smile) : 一个个人符号。
 
+### Recommends
+
+#### Libraries
+
+##### UI Components Lib
+
+- [shadcn](https://ui.shadcn.com/)
+- [Radix UI](https://radix-ui.com/)
+- [Ant Design X](https://ant-design-x.antgroup.com)
+
+- [LangUI](https://www.langui.dev/)
+
+##### Motion|Anime
+
+- [Magic UI](https://magicui.design/)
+- [Aceternity UI](https://ui.aceternity.com)
+- [BuouUI](https://buouui.com/)
+- [Motion (Framer Motion)](https://motion.dev)
+- [Lottie](http://airbnb.io/lottie)
+
+#### UI References
+
+##### Linear? Style
+
+- [AuthKit](https://www.authkit.com/)
+- [Scale](https://scale.com/)
+- [Vite](https://vite.dev/) [cn](https://cn.vite.dev/)
+- [visionOS](https://www.apple.com/visionos)
+- [Startup Template - Magic UI](https://startup-template-sage.vercel.app/)
+- [Linear](https://linear.app/)
+- [Reflect](https://reflect.app/)
+- [Wope](https://wope.com/)
+- [Harness](https://www.harness.io/)
+
+##### Bento UI?
+
+- [awsmd](https://www.awsmd.com/)
+
+##### Popular Flatted?
+
+- [Coze](https://www.coze.cn/)
+- [Doubao](https://www.doubao.com/chat/)
+- [Doubao TopSeed](https://team.doubao.com/zh/topseed)
+
+##### Cool Websites
+
+- [Flareum](https://flareum.io/)
+- [Pallet Ross](https://dribbble.com/shots/25254773-Pallet-Ross-Art-Marketplace) [+1](https://dribbble.com/shots/25293400-Pallet-Ross-Art-Marketplace)
+
+
+
+
+
