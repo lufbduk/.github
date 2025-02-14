@@ -107,5 +107,6 @@
 
 #### Knowledge
 
+- [Vite Library Mode](https://cn.vite.dev/guide/build.html#library-mode)
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 
