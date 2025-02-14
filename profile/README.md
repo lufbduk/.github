@@ -45,9 +45,11 @@
 
 #### Building App
 
+- [loro](https://github.com/loro-dev/loro)
 - [Gradio](https://www.gradio.app/docs/gradio/blocks)
 - [litegraph.js](https://github.com/jagenjo/litegraph.js/)
   - [ComfyUI](https://www.comfy.org/)
+- [JSON Canvas](https://github.com/obsidianmd/jsoncanvas)
 
 
 #### Browser Agent
