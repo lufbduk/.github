@@ -104,7 +104,10 @@
 
 - [Flareum](https://flareum.io/)
 - [Pallet Ross](https://dribbble.com/shots/25254773-Pallet-Ross-Art-Marketplace) [+1](https://dribbble.com/shots/25293400-Pallet-Ross-Art-Marketplace)
-
+- [Diagram](https://diagram.com) 以前很酷炫，但是现在变成 Figma AI 了。
+  - [效果展示](http://xhslink.com/a/oX7sllFe3fR5)
+  - [Magician](https://magician.design/)
+  - [blog](https://blog.diagram.com)
 
 
 #### Knowledge
