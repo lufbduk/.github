@@ -45,6 +45,7 @@
 
 #### Apps
 
+- [Automa](https://www.automa.site/)
 - [flowith](https://flowith.io/)
 
 #### Libraries
