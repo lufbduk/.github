@@ -52,6 +52,7 @@
 ##### Blocks
 
 - [Gradio](https://www.gradio.app/docs/gradio/blocks)
+- [Blockly](https://github.com/google/blockly) [docs](https://developers.google.com/blockly/reference/js/blockly.md)
 
 ##### Workflow
 
@@ -93,6 +94,7 @@
 - [Magic UI](https://magicui.design/)
 - [Aceternity UI](https://ui.aceternity.com)
 - [BuouUI](https://buouui.com/)
+- [GSAP](https://gsap.com/) 商用要收费
 - [Motion (Framer Motion)](https://motion.dev)
 - [Lottie](http://airbnb.io/lottie)
 
