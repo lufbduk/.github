@@ -43,9 +43,22 @@
 
 ### Recommends
 
-#### Apps
+#### Building App
 
+- [Gradio](https://www.gradio.app/docs/gradio/blocks)
+- [litegraph.js](https://github.com/jagenjo/litegraph.js/)
+  - [ComfyUI](https://www.comfy.org/)
+
+
+#### Browser Agent
+
+- [Browser Use](https://docs.browser-use.com/introduction)
+- [Steel](https://github.com/steel-dev/steel-browser)
 - [Automa](https://www.automa.site/)
+
+
+#### AI Interface
+
 - [flowith](https://flowith.io/)
 
 #### Libraries
