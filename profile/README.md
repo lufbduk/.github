@@ -50,7 +50,7 @@
 - [litegraph.js](https://github.com/jagenjo/litegraph.js/)
   - [ComfyUI](https://www.comfy.org/)
 - [JSON Canvas](https://github.com/obsidianmd/jsoncanvas)
-- [Rete.js](https://github.com/retejs/rete) JavaScript framework for visual programming
+- [Rete.js](https://github.com/retejs/rete) JavaScript framework for visual programming [Docs](https://retejs.org/docs)
 - [@gedit/playground](https://www.npmjs.com/package/@gedit/playground)
   - Coze 画工作流图用的似乎是这个，绘制方案是：节点卡片用 div，连线用 svg 。
 
