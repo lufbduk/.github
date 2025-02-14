@@ -45,12 +45,23 @@
 
 #### Building App
 
+##### Data Management
+
 - [loro](https://github.com/loro-dev/loro)
+
+##### Blocks
+
 - [Gradio](https://www.gradio.app/docs/gradio/blocks)
+
+##### Workflow
+
+- [Rete.js](https://github.com/retejs/rete) JavaScript framework for visual programming [Docs](https://retejs.org/docs)
+- [React Flow](https://reactflow.dev/)
+- [JSON Canvas](https://github.com/obsidianmd/jsoncanvas)
 - [litegraph.js](https://github.com/jagenjo/litegraph.js/)
   - [ComfyUI](https://www.comfy.org/)
-- [JSON Canvas](https://github.com/obsidianmd/jsoncanvas)
-- [Rete.js](https://github.com/retejs/rete) JavaScript framework for visual programming [Docs](https://retejs.org/docs)
+- [Vue Flow](https://vueflow.dev/)
+- [Reaflow](https://github.com/reaviz/reaflow)
 - [@gedit/playground](https://www.npmjs.com/package/@gedit/playground)
   - Coze 画工作流图用的似乎是这个，绘制方案是：节点卡片用 div，连线用 svg 。
 
@@ -90,9 +101,15 @@
 - D3.js
 - Three.js
 - SVG
+  - [Fabric.js](https://fabricjs.com)
   - SVG.js
+  - [Raphael](https://dmitrybaranovskiy.github.io/raphael/)
 - Canvas
-- Phaser
+- [X6](https://x6.antv.vision/zh/examples/gallery)
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js)
+- [jsPlumb community edition](https://github.com/jsplumb/community-edition) & [jsPlumb](https://jsplumbtoolkit.com/)
+- [Phaser](https://phaser.io/)
+- [BPMN](https://bpmn.io/)
 
 #### UI References
 
