@@ -50,7 +50,8 @@
 - [litegraph.js](https://github.com/jagenjo/litegraph.js/)
   - [ComfyUI](https://www.comfy.org/)
 - [JSON Canvas](https://github.com/obsidianmd/jsoncanvas)
-
+- [@gedit/playground](https://www.npmjs.com/package/@gedit/playground)
+  - Coze 画工作流图用的似乎是这个，绘制方案是：节点卡片用 div，连线用 svg 。
 
 #### Browser Agent
 
