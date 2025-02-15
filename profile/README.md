@@ -92,6 +92,7 @@
 #### AI Interface
 
 - [flowith](https://flowith.io/)
+- [NextChat](https://app.nextchat.dev/)
 
 #### Libraries
 
@@ -166,6 +167,9 @@
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 
 
+#### People
+
+- [Leizhenpeng](https://github.com/Leizhenpeng)
 
 
 
