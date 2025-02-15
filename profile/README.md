@@ -6,6 +6,21 @@
 - @[ziio2110](https://github.com/ziio2110)
 - @[gitforziio](https://github.com/gitforziio)
 
+
+
+<!-- 
+### Domains
+
+- tridict.com
+- nlpsun.cn
+- nexworld.wiki
+- nexworld.art
+- acgai.fun
+- kdbai.run
+ -->
+
+
+
 ### Projects
 
 #### Ambitions
@@ -53,6 +68,7 @@
 
 - [Gradio](https://www.gradio.app/docs/gradio/blocks)
 - [Blockly](https://github.com/google/blockly) [docs](https://developers.google.com/blockly/reference/js/blockly.md)
+- [Plate: Build your rich-text editor](https://platejs.org/)
 
 ##### Workflow
 
@@ -83,9 +99,6 @@
 
 - [shadcn](https://ui.shadcn.com/)
 - [Radix UI](https://radix-ui.com/)
-
-- [Plate: Build your rich-text editor](https://platejs.org/)
-
 - [Ant Design X](https://ant-design-x.antgroup.com)
 - [LangUI](https://www.langui.dev/)
 
@@ -151,7 +164,6 @@
 
 - [Vite Library Mode](https://cn.vite.dev/guide/build.html#library-mode)
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
-
 
 
 
