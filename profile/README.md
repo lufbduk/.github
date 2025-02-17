@@ -98,6 +98,7 @@
 
 - [flowith](https://flowith.io/)
 - [NextChat](https://app.nextchat.dev/)
+- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
 - [Open WebUI](https://github.com/open-webui/open-webui)
 
 #### Libraries
