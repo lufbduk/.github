@@ -89,19 +89,29 @@
 - [Automa](https://www.automa.site/)
 
 
+#### Technique
+
+- [PIKE-RAG](https://github.com/microsoft/PIKE-RAG)
+
+
 #### AI Interface
 
 - [flowith](https://flowith.io/)
 - [NextChat](https://app.nextchat.dev/)
+- [Open WebUI](https://github.com/open-webui/open-webui)
 
 #### Libraries
 
 ##### UI Components Lib
 
-- [shadcn](https://ui.shadcn.com/)
-- [Radix UI](https://radix-ui.com/)
-- [Ant Design X](https://ant-design-x.antgroup.com)
-- [LangUI](https://www.langui.dev/)
+- React
+  - [shadcn](https://ui.shadcn.com/)
+  - [Radix UI](https://radix-ui.com/)
+  - [Ant Design X](https://ant-design-x.antgroup.com)
+  - [LangUI](https://www.langui.dev/)
+- Vue
+  - [PrimeVue](https://primevue.org)
+
 
 ##### Motion | Anime
 
@@ -165,6 +175,7 @@
 
 - [Vite Library Mode](https://cn.vite.dev/guide/build.html#library-mode)
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+- [NextJS SEO](https://nextjs.org/docs/app/api-reference/file-conventions/metadata)
 
 
 #### People
