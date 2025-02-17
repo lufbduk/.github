@@ -176,13 +176,14 @@
 - [Vite Library Mode](https://cn.vite.dev/guide/build.html#library-mode)
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 - [NextJS SEO](https://nextjs.org/docs/app/api-reference/file-conventions/metadata)
+- [如何快乐地使用vite开发npm库](https://www.nowcoder.com/discuss/513677605841788928)
 
 
 #### People
 
 - [雷圳鹏](https://github.com/Leizhenpeng)
   - [Blog - Demos](https://leizhenpeng.com/demos)
-
+- [Anthony Fu](https://antfu.me/)
 
 
 
