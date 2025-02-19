@@ -39,8 +39,7 @@
 #### Going to do
 
 - [KiTools](https://github.com/kitools) : 便利的小工具集合。
-- [ConclusionNet](https://github.com/ConclusionNet) : 人类知识共同体中的「结论网」。
-- [ConclusionBank](https://github.com/ConclusionBank) : 人类知识共同体中的「结论库」。
+- [ConclusionNet](https://github.com/ConclusionNet) | [ConclusionBank](https://github.com/ConclusionBank) : 人类知识共同体中的「结论网|结论库」。
 - [lang-tutorial](https://github.com/lang-tutorial) : 各种人工语言或自然语言的教程。
 
 #### Some day
