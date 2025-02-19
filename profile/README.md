@@ -150,6 +150,7 @@
 
 ##### Linear?
 
+- [Kwaipilot](https://kwaipilot.ai/)
 - [AuthKit](https://www.authkit.com/)
 - [Scale](https://scale.com/)
 - [Vite](https://vite.dev/) [cn](https://cn.vite.dev/)
