@@ -96,7 +96,9 @@
 
 #### Technique
 
+- [LanceDB](https://lancedb.github.io/lancedb/basic/)
 - [PIKE-RAG](https://github.com/microsoft/PIKE-RAG)
+- [Express](https://www.expressjs.com.cn/starter/generator.html)
 
 
 #### AI Interface
