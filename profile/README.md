@@ -197,7 +197,8 @@
 
 #### Tools | Apps
 
--[Recraft](https://www.recraft.ai)
+- [Recraft](https://www.recraft.ai)
+- [AnyVoice](https://anyvoice.net)
 
 
 <!-- https://sealos.run/ -->
