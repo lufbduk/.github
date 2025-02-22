@@ -105,6 +105,7 @@
 
 - [flowith](https://flowith.io/)
 - [NextChat](https://app.nextchat.dev/)
+- [Monica](https://monica.cn)
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
 - [Open WebUI](https://github.com/open-webui/open-webui)
 - [Wrap](https://www.warp.dev/) : The intelligent terminal.
