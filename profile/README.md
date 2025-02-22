@@ -123,6 +123,7 @@
 
 ##### Motion | Anime
 
+- [React Bits](https://www.reactbits.dev/)
 - [Magic UI](https://magicui.design/)
 - [Aceternity UI](https://ui.aceternity.com)
 - [BuouUI](https://buouui.com/)
