@@ -113,6 +113,12 @@
 
 #### Libraries
 
+##### AI
+
+- [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction)
+- [mastra](https://mastra.ai/)
+
+
 ##### UI Components Lib
 
 - React
