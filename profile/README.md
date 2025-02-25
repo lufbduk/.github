@@ -118,6 +118,8 @@
 - [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction)
 - [mastra](https://mastra.ai/)
   - [some prompts](https://github.com/search?q=repo%3Amastra-ai%2Fmastra+%22you+are%22&type=code)
+  - [some prompts](https://github.com/search?q=repo%3Amastra-ai%2Fmastra+path%3Apackages%2Fcore+%22you%22&type=code)
+  - [metrics - llm](https://github.com/mastra-ai/mastra/tree/e7523402b7f9ca97b7a532faab2bc23a7850a610/packages/evals/src/metrics/llm)
 
 
 ##### UI Components Lib
