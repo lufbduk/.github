@@ -117,6 +117,7 @@
 
 - [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction)
 - [mastra](https://mastra.ai/)
+  - [some prompts](https://github.com/search?q=repo%3Amastra-ai%2Fmastra+%22you+are%22&type=code)
 
 
 ##### UI Components Lib
