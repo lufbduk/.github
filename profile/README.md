@@ -38,6 +38,8 @@
 
 #### Going to do
 
+- [LLM → Symbolic System](https://github.com/llm2symbolic)
+- [LLM → Knowledge Graph](https://github.com/llm2kg)
 - [JimuKu](https://github.com/jimuku) : 快速搭建 WebApp/Demo 的前端组件框架。
 - [KiTools](https://github.com/kitools) : 便利的小工具集合。
 - [ConclusionNet](https://github.com/ConclusionNet) | [ConclusionBank](https://github.com/ConclusionBank) : 人类知识共同体中的「结论网|结论库」。
