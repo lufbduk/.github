@@ -31,6 +31,7 @@
 
 #### Doing
 
+- [llm-utils](https://github.com/ziioai/llm-utils) : LLM JS/TS 工具库。
 - [NaturalParser](https://github.com/NaturalParser) : 句法语义解析器。
 - [PureKnow](https://github.com/pureknow) : 私人知识工程工具。
 - [NexWorld](https://github.com/nex-world) : AI Driven TRPG.
