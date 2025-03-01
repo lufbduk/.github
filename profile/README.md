@@ -227,6 +227,11 @@
 
 <!-- https://sealos.run/ -->
 
+---
+
+#### InBox
+
+- [the-general-problem-solver](https://github.com/ziioforks/the-general-problem-solver)
 
 
 
