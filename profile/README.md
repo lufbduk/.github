@@ -106,6 +106,10 @@
 - [Steel](https://github.com/steel-dev/steel-browser)
 - [Automa](https://www.automa.site/)
 
+#### APIs
+
+- [OpenAlex](https://docs.openalex.org/)
+- [Semantic Scholar](https://www.semanticscholar.org/product/api)
 
 #### Technique
 
