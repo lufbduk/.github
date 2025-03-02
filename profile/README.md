@@ -28,6 +28,7 @@
 - [语宙心星](https://github.com/ziionote) : 探索语言与心智的奥秘（博客）。
 - [Tridict](https://github.com/Tridict) : 三相字典（三相：人、机器、灵魂），提供以「面向人类和机器的自然语言知识资源服务」为代表的开源技术。
 - [ZIIO AI](https://github.com/ziioai) : Make rational AI products a reality.
+- [凝练AI](https://github.com/ninglianai)
 
 #### Doing
 
