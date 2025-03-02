@@ -64,8 +64,9 @@
 
 - [logs](https://github.com/gitforziio/logs) | [data](https://github.com/gitforziio/data) | [gists](https://github.com/gitforziio/gists) | [notes](https://github.com/gitforziio/notes) | [ideas](https://github.com/gitforziio/ideas) | [diary](https://github.com/gitforziio/diary) | [dream](https://github.com/gitforziio/dream/tree/main/dreams) | [SharedLinks](https://github.com/gitforziio/SharedLinks/blob/master/my-wechat-moments-shared-links.md)
 - [MyNote](https://github.com/gitforziio/MyNote) | [Annotator](https://github.com/gitforziio/Annotator) | [ichat](https://gitforziio.github.io/ichat/)
-- [Tridict](https://github.com/Tridict/Tridict) | [PECG](https://github.com/gitforziio/PECG)
+- [PECG](https://github.com/gitforziio/PECG)
 - [smallworldofwords_crawler](https://github.com/gitforziio/smallworldofwords_crawler)
+- [frontend-demos](https://github.com/ZiioJoy/frontend-demos)
 
 --------------------------------------------------
 
