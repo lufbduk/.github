@@ -57,11 +57,13 @@
 - [ZiioJoy](https://github.com/ZiioJoy) : 个人兴趣爱好相关内容分享场所。
 - [ZiioForks](https://github.com/ziioforks) : Forked repos.
 - [Blue Smile](https://github.com/blue-smile) : 一个个人符号。
-
+- [game-list](https://github.com/ziio2110/game-list)
+- [个人杂记](https://github.com/ziio2110/proses)
 
 
 --------------------------------------------------
 
+- [技术笔记归档](https://github.com/ziio2110/tech-mds)
 - [logs](https://github.com/gitforziio/logs) | [data](https://github.com/gitforziio/data) | [gists](https://github.com/gitforziio/gists) | [notes](https://github.com/gitforziio/notes) | [ideas](https://github.com/gitforziio/ideas) | [diary](https://github.com/gitforziio/diary) | [dream](https://github.com/gitforziio/dream/tree/main/dreams) | [SharedLinks](https://github.com/gitforziio/SharedLinks/blob/master/my-wechat-moments-shared-links.md)
 - [MyNote](https://github.com/gitforziio/MyNote) | [Annotator](https://github.com/gitforziio/Annotator) | [ichat](https://gitforziio.github.io/ichat/)
 - [PECG](https://github.com/gitforziio/PECG)
